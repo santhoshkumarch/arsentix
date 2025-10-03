@@ -1,7 +1,0 @@
-Mirror in progress since Thu, 02 Oct 2025 16:33:57 .. please wait!
-httrack https://wp.ditsolution.net/toptech-multipurpose/ -O ./toptech1 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=689
-UID=1000
-GID=1000
-START=1759422837

@@ -1,0 +1,17 @@
+Current Logo URLs from TopTech Website:
+
+1. Standard Logo (main logo):
+   https://wp.ditsolution.net/toptech-multipurpose/wp-content/uploads/2024/10/logo-tr.png
+
+2. Mobile/Retina Logo:
+   https://wp.ditsolution.net/toptech-multipurpose/wp-content/uploads/2024/07/logo2.png
+
+3. Footer Logo:
+   https://wp.ditsolution.net/toptech-multipurpose/wp-content/uploads/2024/08/software-company-footer-logo.png
+
+Instructions:
+- Download one of these logos (recommend the Standard Logo)
+- Rename it to "arsentix_logo.png" 
+- Replace the old_arsentix_logo.png file
+
+The old arsentix_logo.png has been renamed to old_arsentix_logo.png for backup.
